@@ -1,0 +1,23 @@
+
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+.vscode/
+
+sprites/
+mapas/
+mapas
+
+parametros_plantas
+
+parametros_acciones
+
+parametros_precios
